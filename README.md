@@ -215,5 +215,3 @@ See [DEMO_SCRIPT.txt](DEMO_SCRIPT.txt) for the full spoken narration script.
    *.pyc
    .adk/
    ```
-
-⚠️ **NEVER push `.env` to GitHub. Your API key will be exposed publicly.**
